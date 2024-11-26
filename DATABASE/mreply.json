@@ -1,14 +1,14 @@
 {
 
-"BOT_NAME": "UMAR MD",
+"BOT_NAME": "SILENT-SOBX-MD",
 "VERSION": "2.0.0",
-"CREATED BY": "UM4R",
+"CREATED BY": "SILENT LOVER432",
   
 "replyMsg": {
   
   "giveme": "*Type something, what do you think, who do you think I look like?*",
 
-  "giveut": "*Give a link or a text 😒*",
+  "giveut": "*PLEASE PROVIDE ME A LINK OR TEXT!!*",
 
   "not_fo": "*❌ I Couldn't find anything :(*",
 
@@ -20,7 +20,7 @@
 
   "own_cmd": "*This is Owner Commad ‼*",
 
-  "pre_cmd": "`Your not premium user` 🚫\n\n* Contact to buy a premium connection for Rs.100  for a month \n\n* https://wa.me/923165123719?text=GET_PREMIUIM_CONNECTION👾",
+  "pre_cmd": "`Your not premium user` 🚫\n\n* Contact to buy a premium connection for Rs.100  for a month \n\n* https://wa.me/923096287432?text=GET_PREMIUIM_CONNECTION👾",
 
   "ald_set": "*Already set* 🙂✅",
 
@@ -28,9 +28,9 @@
 
   "inb_cmd": "This is inbox command ❗",
 
-  "give_adm": "*UD MD Say's Gandu Give admin first 😹💪🏻*",
+  "give_adm": "*DEAR ADMIN GIVE PROMOTE TO USE THIS COMMAND!!*",
 
-  "you_adm": "Ghasti You`re Must Be Admin First 😒",
+  "you_adm": "DEAR YOU ARE MUST AN ADMIN TO USE THIS COMMAND!!",
 
   "need_jid": "Please give me jid ❓",
 
@@ -44,7 +44,7 @@
 
   "ald_reapprove_alljid": "All Jid approve reject ✔",
 
-  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact UD MD Bot Owner Remove your Ban_* 👨‍🔧\n",
+  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact SILENT-SOBX-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
 
   "erro": "Error" 
 }
