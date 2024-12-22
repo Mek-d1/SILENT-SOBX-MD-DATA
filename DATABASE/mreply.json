@@ -1,8 +1,8 @@
 {
 
-"BOT_NAME": "SILENT-SOBX-MD",
-"VERSION": "2.0.0",
-"CREATED BY": "SILENT LOVER432",
+"BOT_NAME": "X-BOT-MD",
+"VERSION": "1.0.0",
+"CREATED BY": "DAVID-X/Mek-d1",
   
 "replyMsg": {
   
@@ -18,9 +18,9 @@
 
   "size_big": "*File size is too big ❌*",
 
-  "own_cmd": "*This is Owner Commad ‼*",
+  "own_cmd": "*Command reserved for owner only ‼*",
 
-  "pre_cmd": "`Your not premium user` 🚫\n\n* Contact to buy a premium connection for Rs.100  for a month \n\n* https://wa.me/923096287432?text=GET_PREMIUIM_CONNECTION👾",
+  "pre_cmd": "`Your not premium user` 🚫\n\n* Contact to buy a premium connection for Rs.100  for a month \n\n* https://wa.me/2349133354644?text=GET_PREMIUIM_CONNECTION👾",
 
   "ald_set": "*Already set* 🙂✅",
 
@@ -44,7 +44,7 @@
 
   "ald_reapprove_alljid": "All Jid approve reject ✔",
 
-  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact SILENT-SOBX-MD Bot Owner Remove your Ban_* 👨‍🔧\n",
+  "band_users": "❌ *You are banned from using Commands.....*\n\n*_Please contact X-BOT-MD Owner to Remove your Ban_* 👨‍🔧\n",
 
   "erro": "Error" 
 }
